@@ -1,0 +1,206 @@
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\mscorlib.dll
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\System.Net.Http.dll
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\System.Net.Http.xml
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\normidna.nlp
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\normnfc.nlp
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\normnfd.nlp
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\normnfkc.nlp
+C:\Users\farza\Google Drive\C #\source\repos\SchoolManagement\SchoolManagement\bin\Debug\normnfkd.nlp
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\mscorlib.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\System.Net.Http.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\System.Net.Http.xml
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\normidna.nlp
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\normnfc.nlp
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\normnfd.nlp
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\normnfkc.nlp
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\normnfkd.nlp
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase.mdf
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase.mdf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase.mdf
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.exe.config
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase.mdf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.exe.manifest
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.application
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.exe
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.exe.manifest
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.application
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.exe
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.pdb
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase.mdf
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.exe.config
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.exe.manifest
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.application
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.exe
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\School Management.pdb
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.dll
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\BusinessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\bin\Debug\DataAccessLayer.dll.config
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.AdminForm.resources
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.LoginForm.resources
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.StudentForm.resources
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.TeacherForm.resources
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.exe.manifest
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.application
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.exe
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\SchoolManagement\obj\Debug\School Management.pdb

@@ -1,0 +1,66 @@
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Taha\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-20171207T050651Z-001\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\farza\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\Final\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Taha\Downloads\Compressed\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase.mdf
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\SchoolDataBase_log.ldf
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\farza\Desktop\SchoolManagement-Final\SchoolManagement-Final (2)\SchoolManagement-Final\SchoolManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

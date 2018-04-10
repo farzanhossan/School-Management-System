@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SchoolDataBase" Class="TeacherDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\SchoolDataBase.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="DataAccessLayer.Properties.Settings" SettingsPropertyName="SchoolDataBaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TeacherTable" Member="TeacherTables">
+    <Type Name="TeacherTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="firstname" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="lastname" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="dob" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="currentadd" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[permanent]" Member="permanent" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nationality" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="marital" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="religion" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="blood" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="salary" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="mobile" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ssc" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="hsc" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="undergraduate" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="graduate" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="[6]" Member="_6" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[7]" Member="_7" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[8]" Member="_8" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[9]" Member="_9" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[10]" Member="_10" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tid" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="image" Type="System.Data.Linq.Binary" DbType="Image NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="subject" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="department" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NoticeTable" Member="NoticeTables">
+    <Type Name="NoticeTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="class" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="department" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="notice" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="tid" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="examid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
